@@ -1,0 +1,20 @@
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe.config
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\bin\Debug\Grey Scale.pdb
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Form1.resources
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Properties.Resources.resources
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\obj\Debug\PictureEditor.csproj.GenerateResource.Cache
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey Scale.exe
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey Scale.pdb
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe.config
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey Scale.exe
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey Scale.pdb
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\bin\Debug\Grey Scale.pdb
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\obj\Debug\PictureEditor.csprojResolveAssemblyReference.cache
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Form1.resources
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Properties.Resources.resources
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Grey Scale\Grey Scale\obj\Debug\PictureEditor.csproj.GenerateResource.Cache
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Picture Editor\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe.config
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey Scale.exe
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Picture Editor\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey Scale.pdb

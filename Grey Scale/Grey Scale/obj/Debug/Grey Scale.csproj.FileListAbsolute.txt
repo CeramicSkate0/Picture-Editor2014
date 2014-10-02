@@ -1,0 +1,30 @@
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe.config
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\bin\Debug\Grey Scale.pdb
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\obj\Debug\Grey Scale.csprojResolveAssemblyReference.cache
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Form1.resources
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Properties.Resources.resources
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\obj\Debug\Grey Scale.csproj.GenerateResource.Cache
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\obj\Debug\Grey Scale.exe
+c:\users\payton\documents\visual studio 2012\Projects\Grey Scale\Grey Scale\obj\Debug\Grey Scale.pdb
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe.config
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\obj\Debug\Grey Scale.exe
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\obj\Debug\Grey Scale.pdb
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Form1.resources
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Properties.Resources.resources
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\obj\Debug\Grey Scale.csproj.GenerateResource.Cache
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\bin\Debug\Grey Scale.pdb
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Class Works\Grey Scale\Grey Scale\obj\Debug\Grey Scale.csprojResolveAssemblyReference.cache
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe.config
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\obj\Debug\Grey Scale.exe
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\obj\Debug\Grey Scale.pdb
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\bin\Debug\Grey Scale.pdb
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\obj\Debug\Grey Scale.csprojResolveAssemblyReference.cache
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Form1.resources
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\obj\Debug\Grey_Scale.Properties.Resources.resources
+C:\Users\Payton\Documents\School\Junior Year\Fall 13\3) GUI\Assignment 3\Grey Scale\Grey Scale\obj\Debug\Grey Scale.csproj.GenerateResource.Cache
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\bin\Debug\Grey Scale.exe.config
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey Scale.exe
+C:\Users\Payton\Desktop\MyWebSite\ApsSchool\Picture Editor\Grey Scale\Grey Scale\obj\Debug\Grey Scale.pdb
